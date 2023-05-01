@@ -18,7 +18,7 @@
 "MessageID": "1",
 "ShowTime": "999",
 "Button": "  عضویت فوری  ",
-"ButtonCancell": "  ",
+"ButtonCancell": "‌ بعدا ‌",
 "Closure": "true",
 "Show": "on"
 }
